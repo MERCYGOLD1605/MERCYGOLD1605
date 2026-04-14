@@ -5,6 +5,15 @@
 
 ---
 
+## 🙋‍♀️ About Me
+
+I am a highly motivated and enthusiastic aspiring software engineer with a strong passion for learning and building impactful solutions.  
+I am eager to work in a professional organization where I can apply my technical skills, continuously learn, and grow as a developer.  
+
+I am committed to giving my best efforts, contributing effectively to team goals, and adapting quickly to new technologies and challenges.  
+
+---
+
 ## 🔥 Projects
 
 🔹 Student Management System  
@@ -39,23 +48,8 @@
 
 ## 📫 Connect with me
 
-- GitHub: https://github.com/MERCYGOLD1605
+- GitHub: https://github.com/MERCYGOLD1605  
 
 ---
 
-⭐ “Consistent learning leads to success”## Hi there 👋
-
-<!--
-**MERCYGOLD1605/MERCYGOLD1605** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *"Consistent learning and dedication lead to success."*
