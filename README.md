@@ -46,6 +46,33 @@ I am committed to giving my best efforts, contributing effectively to team goals
 
 ---
 
+## 📊 GitHub Stats
+
+![Mercy's GitHub stats](https://github-readme-stats.vercel.app/api?username=MERCYGOLD1605&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MERCYGOLD1605&theme=tokyonight)
+
+---
+
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MERCYGOLD1605&layout=compact&theme=tokyonight)
+
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+
+---
+
 ## 📫 Connect with me
 
 - GitHub: https://github.com/MERCYGOLD1605  
