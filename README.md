@@ -52,11 +52,6 @@ I am committed to giving my best efforts, contributing effectively to team goals
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=MERCYGOLD1605&theme=tokyonight)
-
----
 
 ## 💻 Top Languages
 
